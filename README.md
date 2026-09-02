@@ -25,8 +25,8 @@
 *Mục tiêu: Hiểu Testing là gì, tại sao cần Testing và tư duy phản biện của một Tester chuyên nghiệp.*
 
 - [ ] **1.1. Core Software Testing**
-  - [] [1.1.1. What is Software Testing?](../01-testing-fundamentals/1_CoreTesting.md#111-what-is-software-testing)
-  - [] [1.1.2. Verification vs Validation](../01-testing-fundamentals/1_CoreTesting.md#112-verification-vs-validation)
+  - [ ] [1.1.1. What is Software Testing?](../01-testing-fundamentals/1_CoreTesting.md#111-what-is-software-testing)
+  - [ ] [1.1.2. Verification vs Validation](../01-testing-fundamentals/1_CoreTesting.md#112-verification-vs-validation)
   - [ ] [1.1.3. QA vs QC vs Tester vs QE](../01-testing-fundamentals/1_CoreTesting.md#113-qa-vs-qc-vs-tester-vs-qe)
   - [ ] [1.1.4. Error vs Defect vs Failure](../01-testing-fundamentals/1_CoreTesting.md#114-error-vs-defect-vs-failure)
   - [ ] [1.1.5. Test Objective](../01-testing-fundamentals/1_CoreTesting.md#115-test-objective)
